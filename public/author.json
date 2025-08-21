@@ -1,0 +1,46 @@
+[
+    {
+        "author_name": "Agnes Nduta",
+        "deg": "Full Stack Web Developer",
+        "bio": "Agnes is a freelance technical writer and backend developer and certified AWS cloud practitioner. She has been creating content for over 10 years, with a strong focus on software for the last five. The web backend is her forte, as well as newer technologies like machine learning, DevOps, and the cloud. Once in a while, she’ll pen down some new things she’s learning on dev.to or freecodecamp. She also attends hackathons and spoke at a Nairobi Atlassian event. When she’s not behind a computer, you’ll find her outdoors trying to connect with nature.",
+        "image": "https://d3mm2s9r15iqcv.cloudfront.net/en/wp-content/uploads/2022/07/Agnes3-e1658741047364-150x150.webp",
+        "social_media": {
+            "twitter": "https://twitter.com/emilytravels",
+            "instagram": "https://www.instagram.com/emilythompsonwriter/",
+            "facebook": "https://www.facebook.com/emilythompsonwriter"
+        }
+    },
+    {
+        "author_name": "Rasel Mahmud",
+        "deg": "Jr Web Developer",
+        "bio": "Alexandre Dubois is a tech enthusiast and software engineer by profession, but a writer and blogger by passion. With a knack for explaining complex concepts in simple terms, he enjoys sharing his knowledge and insights on the latest trends in technology and innovation. When he's not coding or writing, Alexandre can be found hiking in the mountains, playing the guitar, or experimenting with new recipes in the kitchen.",
+        "image": "https://i.ibb.co/HrVKbnX/Rasel.jpg",
+        "social_media": {
+            "twitter": "https://twitter.com/rase.l9360",
+            "linkedin": "https://www.linkedin.com/in/alexandredubois/",
+            "github": "https://github.com/alexandredubois"
+        }
+    },
+    {
+        "author_name": "Richard Greenan",
+        "deg": "UX Designer",
+        "bio": "Sophie Nguyen is a fitness coach, nutritionist, and wellness blogger dedicated to helping others live their healthiest lives. With a background in sports science and a passion for holistic well-being, she shares practical tips, delicious recipes, and motivational advice to inspire positive lifestyle changes. When she's not coaching clients or writing, Sophie enjoys practicing yoga, exploring nature trails, and spending time with her rescue dog, Luna.",
+        "image": "https://d3mm2s9r15iqcv.cloudfront.net/en/wp-content/uploads/2022/11/Richard-Greenan-CareerFoundry-author-150x150.webp",
+        "social_media": {
+            "instagram": "https://www.instagram.com/sophienguyenwellness/",
+            "youtube": "https://www.youtube.com/c/sophienguyenwellness",
+            "facebook": "https://www.facebook.com/sophienguyenwellness"
+        }
+    },
+    {
+        "author_name": "Will Hillier",
+        "deg": "Digital Marketer",
+        "bio": "Will is a freelance copywriter and project manager with over 15 years' experience helping firms communicate all things tech- and education-related. His words have been published in print and online, including in the Daily Telegraph, TES, and across other education sector media. He's also known for his ability to complete a Rubik's Cube in under five seconds, but it has to be seen to be believed.",
+        "image": "https://d3mm2s9r15iqcv.cloudfront.net/en/wp-content/uploads/2021/01/William-Hillier-150x150.webp",
+        "social_media": {
+            "instagram": "https://www.instagram.com/sophienguyenwellness/",
+            "youtube": "https://www.youtube.com/c/sophienguyenwellness",
+            "facebook": "https://www.facebook.com/sophienguyenwellness"
+        }
+    }
+]
