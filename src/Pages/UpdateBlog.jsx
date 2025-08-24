@@ -47,10 +47,7 @@ const UpdateBlog = () => {
             <Helmet>
                 <title>Update Blog</title>
             </Helmet>
-            {/* <Helmet>
-                <title>Add Tourist Spot</title>
-            </Helmet> */}
-            <h2 className="text-3xl text-center font-bold font-serif text-[#F95A65] mb-6">Add Blogs
+            <h2 className="text-3xl text-center font-bold font-serif text-[#F95A65] mb-6">Update Blogs
             </h2>
             <form onSubmit={handleAddTourist}>
                 <div className="md:flex gap-6  ">

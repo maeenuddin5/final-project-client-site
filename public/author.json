@@ -11,14 +11,14 @@
         }
     },
     {
-        "author_name": "Rasel Mahmud",
+        "author_name": "Maeen Uddin",
         "deg": "Jr Web Developer",
-        "bio": "Alexandre Dubois is a tech enthusiast and software engineer by profession, but a writer and blogger by passion. With a knack for explaining complex concepts in simple terms, he enjoys sharing his knowledge and insights on the latest trends in technology and innovation. When he's not coding or writing, Alexandre can be found hiking in the mountains, playing the guitar, or experimenting with new recipes in the kitchen.",
-        "image": "https://i.ibb.co/HrVKbnX/Rasel.jpg",
+        "bio": "Alexandre Dubois is a tech enthusiast and software engineer by profession, but a writer and blogger by passion. With a knack for explaining complex concepts in simple terms, he enjoys sharing his knowledge and and innovation. When he's not coding or writing, Alexandre can be found hiking in the mountains, playing the guitar, or experimenting with new recipes in the kitchen.",
+        "image": "https://i.ibb.co.com/pjM630jL/saiful-image.jpg",
         "social_media": {
             "twitter": "https://twitter.com/rase.l9360",
             "linkedin": "https://www.linkedin.com/in/alexandredubois/",
-            "github": "https://github.com/alexandredubois"
+            "github": "https://github.com/maeenuddin5"
         }
     },
     {
@@ -35,7 +35,7 @@
     {
         "author_name": "Will Hillier",
         "deg": "Digital Marketer",
-        "bio": "Will is a freelance copywriter and project manager with over 15 years' experience helping firms communicate all things tech- and education-related. His words have been published in print and online, including in the Daily Telegraph, TES, and across other education sector media. He's also known for his ability to complete a Rubik's Cube in under five seconds, but it has to be seen to be believed.",
+        "bio": "Will is a freelance copywriter and project manager with over 15 years' experience helping firms communicate all things tech- and education-related. His words have been published in print and online, including in the Daily Telegraph, TES, and across other education sector to complete a Rubik's Cube in under five seconds, but it has to be seen to be believed.",
         "image": "https://d3mm2s9r15iqcv.cloudfront.net/en/wp-content/uploads/2021/01/William-Hillier-150x150.webp",
         "social_media": {
             "instagram": "https://www.instagram.com/sophienguyenwellness/",
